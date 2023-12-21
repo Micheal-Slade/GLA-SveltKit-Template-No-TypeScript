@@ -1,6 +1,7 @@
-<script lang="ts">
+<script>
 	// Example
 	import { Button, Select } from '@ldn-viz/ui';
+	import RadioButton from '@ldn-viz/ui';
 
 	let value = 1;
 
